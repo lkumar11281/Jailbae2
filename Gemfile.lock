@@ -95,7 +95,7 @@ GEM
 
 PLATFORMS
   ruby
-  
+
 
 DEPENDENCIES
   rack
